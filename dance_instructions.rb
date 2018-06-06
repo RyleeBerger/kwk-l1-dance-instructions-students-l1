@@ -36,6 +36,14 @@ def bust_a_move
   puts "Put right hand on forhead and salute."
 end
 
+starting_stance
+skip_step_right
+skip_step_left
+base_footwork
+bob_the_reins
+lasso
+bust_a_move
+
 def gangnam_style
 starting_stance
 bust_a_move
